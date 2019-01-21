@@ -8,7 +8,7 @@
  * Author URI:   https://github.com/cyberfly999
  * License:      GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:  acf-lc-ayout-control
+ * Text Domain:  acf-layout-control
  * Domain Path:  /languages
  */
 
@@ -22,7 +22,7 @@ function vh_acf_layout_control() {
 	<script type="text/javascript">
 		jQuery(document).ready(function ($) {
 
-			var $buttons = $('<div class="jan_button_bar" style="margin-bottom: 20px;margin-top:-25px;text-align: right"><button class="acf-button button-secondary button acf-layout-control-expand">Module öffnen</button> <button class="acf-button button-secondary button acf-layout-control-colapse">Module schliessen</button></div>');
+			var $buttons = $('<div class="jan_button_bar" style="margin-bottom: 20px;margin-top:-25px;text-align: right"><button class="acf-button button-secondary button acf-layout-control-expand"><?php _e("Open Modules","acf-layout-control");?></button> <button class="acf-button button-secondary button acf-layout-control-colapse"><?php _e("Close Modules","acf-layout-control");?></button></div>');
 			var $target = $('.acf-flexible-content');
 
 			$target.prepend($buttons);
