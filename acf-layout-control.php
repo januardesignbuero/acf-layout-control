@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name:  ACF Layout Control
- * Plugin URI:
- * Description:  Adds Open/Close-all-Layouts Buttons to page admin
+ * Plugin URI:   https://github.com/cyberfly999/acf-layout-control
+ * Description:  Adds Open/Close-all-Layouts Buttons to ACF Flexible Layouts
  * Version:      0.1.0
  * Author:       Vince Hehlen
  * Author URI:   https://github.com/cyberfly999
@@ -42,5 +42,3 @@ function vh_acf_layout_control() {
 	<?php
 }
 add_action('admin_footer', 'vh_acf_layout_control');
-
-
