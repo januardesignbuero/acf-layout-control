@@ -9,7 +9,7 @@
  * License:      GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:  acf-layout-control
- * Domain Path:  /languages
+ * Domain Path:  languages
  */
 
 // If this file is called directly, abort.
