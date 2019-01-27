@@ -7,3 +7,4 @@ Go to [releases](https://github.com/cyberfly999/acf-layout-control/releases) and
 In WP, go to ```Plugins > Add new``` and cick the upload button.
 
 ### How to use
+In WP-Admin, on Pages, Posts and everywhere, where ACFs Flexible Content takes place, two buttons will be rendered: One to open all panels and one to close all of them.
