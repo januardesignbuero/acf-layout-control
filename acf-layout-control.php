@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:  ACF Layout Control
- * Plugin URI:   https://github.com/cyberfly999/acf-layout-control
+ * Plugin URI:   https://github.com/januardesignbuero/acf-layout-control
  * Description:  Adds Open/Close-all-Layouts Buttons to ACF Flexible Layouts
  * Version:      0.1.0
- * Author:       Vince Hehlen
- * Author URI:   https://github.com/cyberfly999
+ * Author:       Januar Designbüro, Vince Hehlen
+ * Author URI:   https://github.com/januardesignbuero
  * License:      GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:  acf-layout-control
